@@ -1,7 +1,12 @@
 <h1 align="center"> <img src="https://github.com/KEVIN-117/SIS-211-G_3/blob/main/images/328174743_1181705299152663_8588467284548548529_n.jpg"/> </h1>
-
 <h1 align="center"> Tecnicas de Programacion II SIS-211 Grupo 3 </h1>
 # SIS-211_G-3 :v:
+
++Bibliografia
+    + [Paul Deitel, Harvey Deitel. (2016). como programar java. Pearson Educación.]
+    + [Luis Jose Sanches. (2016). Aprende java con ejercicios]
+    + [Alfredo Moreno Vozmediano. (2017). Java para novatos.](https://terabox.com/s/1xJmPxFLtUNIsqsFnDgEftQ)
+    + [Java consejos de profesionales (2018)]
 
 + TABLA DE CONTENIDO
     + CAPITULO I
