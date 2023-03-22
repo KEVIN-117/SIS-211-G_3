@@ -29,9 +29,12 @@
         + Operadores de incremento y decremento
         + Instrucciones de repeticion while, do...while, for, 
         + Intrucciones break y continue
+      + Arrays
+        + Arrays de una dimension
+        + Arrays de bidimensionales
+        + El objetos Arrays  
+      + Funciones 
       
-  + [Contributing](docs/CONTRIBUTING.md)
-  + [How-to](docs/HOWTO.md)
 
 
 
