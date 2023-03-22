@@ -2,11 +2,12 @@
 <h1 align="center"> Tecnicas de Programacion II SIS-211 Grupo 3 </h1>
 # SIS-211_G-3 :v:
 
-+Bibliografia
-    + [Paul Deitel, Harvey Deitel. (2016). como programar java. Pearson Educación.]
-    + [Luis Jose Sanches. (2016). Aprende java con ejercicios]
++ Bibliografia
+    + [Paul Deitel, Harvey Deitel. (2016). como programar java. Pearson Educación.](https://terabox.com/s/1uYRlkadJENbTG_DBK-QsSQ)
+    + [Luis Jose Sanches. (2016). Aprende java con ejercicios](https://terabox.com/s/13kxRvKDHaYTjk91js_FkzA)
     + [Alfredo Moreno Vozmediano. (2017). Java para novatos.](https://terabox.com/s/1xJmPxFLtUNIsqsFnDgEftQ)
-    + [Java consejos de profesionales (2018)]
+    + [Programación en Java by Carlos Arroyo Díaz](https://terabox.com/s/1Poz5-enHf2_tnQYdqCqTsw)
+    + [Java consejos de profesionales (2018)](https://terabox.com/s/1qvYlqYEyFrHXKEjKtCHe9w)
 
 + TABLA DE CONTENIDO
     + CAPITULO I
